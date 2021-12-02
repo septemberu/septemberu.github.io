@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node1" appversion="6.1.13" apprev="18080">
+  <panorama id="node1">
+    <input overlap="1" levelingpitch="0" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" height="3491" leveltilesize="510" levelbiashidpi="1.000" levelbias="0.400" width="3491" levelingroll="0">
+      <level preload="0" height="3491" predecode="0" width="3491"/>
+      <level preload="0" height="1745" predecode="0" width="1745"/>
+      <level preload="0" height="872" predecode="0" width="872"/>
+      <level preload="1" height="436" predecode="1" width="436"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0.752567">
+      <start projection="4" tilt="2.32509" pan="2.85093" fov="70"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max tilt="90" pan="360" fovfisheye="360" fov="120" scaletofit="1" fovstereographic="270"/>
+    </view>
+    <userdata customnodeid="" author="" info="" comment="" longitude="" source="" nodeid="node1" title="" description="" heading="0.752567" copyright="" latitude="" datetime="11/30/21 6:45 AM" tags="06-Augmented Tour with Pano2VR">
+      <mapcoords x="nan" mapid="FloorPlan01" x_floorplan_percent="inf" y="nan" y_floorplan_percent="inf"/>
+    </userdata>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label backgroundalpha="1" textcolor="0x000000" bordercolor="0x000000" enabled="1" height="20" borderalpha="1" border="1" borderradius="1" background="1" textalpha="1" wordwrap="1" width="180" backgroundcolor="0xffffff"/>
+      <polystyle backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot skinid="ht_node" id="Point01" tilt="-6.18" pan="-6.74" title="Move Here" description="" url="{node2}" target="175.8/-4.7/70.0"/>
+      <hotspot skinid="ht_image" id="Point02" tilt="-1.19" pan="-47.34" title="Entryway Before" description="" url="images/Entryway.jpg" target=""/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" zoomafterinfov="90" zoomoutpause="1" zoomout="0" zoomafteroutfov="20" enabled="1" blendtime="1" zoomspeed="2" softedge="0" zoomin="0" type="crossdissolve" zoomfov="20"/>
+    <autorotate nodedelay="0.00" useanimation="0" delay="5.00" noderandom="1" enabled="1" nodefilter="" returntohorizon="0.000" startloaded="0" speed="0.050"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control rubberband="0" speedwheel="1" contextvr="1" lockedkeyboard="0" invertwheel="0" lockedmouse="0" lockedwheel="0" invertcontrol="1" sensitivity="8" simulatemass="1" contextprojections="0" lockedkeyboardzoom="0" dblclickfullscreen="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node2">
+    <input overlap="1" levelingpitch="0" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" height="3479" leveltilesize="510" levelbiashidpi="1.000" levelbias="0.400" width="3479" levelingroll="0">
+      <level preload="0" height="3479" predecode="0" width="3479"/>
+      <level preload="0" height="1739" predecode="0" width="1739"/>
+      <level preload="0" height="869" predecode="0" width="869"/>
+      <level preload="1" height="434" predecode="1" width="434"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="185.8">
+      <start projection="4" tilt="0" pan="0" fov="70"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max tilt="90" pan="360" fovfisheye="360" fov="120" scaletofit="1" fovstereographic="270"/>
+    </view>
+    <userdata customnodeid="" author="" info="" comment="" longitude="" source="" nodeid="node2" title="" description="" heading="185.8" copyright="" latitude="" datetime="11/30/21 6:49 AM" tags="06-Augmented Tour with Pano2VR">
+      <mapcoords x="nan" mapid="FloorPlan01" x_floorplan_percent="inf" y="nan" y_floorplan_percent="inf"/>
+    </userdata>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label backgroundalpha="1" textcolor="0x000000" bordercolor="0x000000" enabled="1" height="20" borderalpha="1" border="1" borderradius="1" background="1" textalpha="1" wordwrap="1" width="180" backgroundcolor="0xffffff"/>
+      <polystyle backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot skinid="ht_node" id="Point01" tilt="-5.58" pan="-272.65" title="Move Here" description="" url="{node3}" target="3.0/-0.2/70.0"/>
+      <hotspot skinid="ht_node" id="Point02" tilt="-4.92" pan="-9.54" title="Move Here" description="" url="{node1}" target="-178.5/-4.7/70.0"/>
+      <hotspot skinid="ht_image" id="Point03" tilt="2.35" pan="-219.73" title="Living Room Before" description="" url="images/LivingRoom.jpg" target=""/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" zoomafterinfov="90" zoomoutpause="1" zoomout="0" zoomafteroutfov="20" enabled="1" blendtime="1" zoomspeed="2" softedge="0" zoomin="0" type="crossdissolve" zoomfov="20"/>
+    <autorotate nodedelay="0.00" useanimation="0" delay="5.00" noderandom="1" enabled="1" nodefilter="" returntohorizon="0.000" startloaded="0" speed="0.050"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control rubberband="0" speedwheel="1" contextvr="1" lockedkeyboard="0" invertwheel="0" lockedmouse="0" lockedwheel="0" invertcontrol="1" sensitivity="8" simulatemass="1" contextprojections="0" lockedkeyboardzoom="0" dblclickfullscreen="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node3">
+    <input overlap="1" levelingpitch="0" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" height="3471" leveltilesize="510" levelbiashidpi="1.000" levelbias="0.400" width="3471" levelingroll="0">
+      <level preload="0" height="3471" predecode="0" width="3471"/>
+      <level preload="0" height="1735" predecode="0" width="1735"/>
+      <level preload="0" height="867" predecode="0" width="867"/>
+      <level preload="1" height="433" predecode="1" width="433"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="100.324">
+      <start projection="4" tilt="0" pan="0" fov="70"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max tilt="90" pan="360" fovfisheye="360" fov="120" scaletofit="1" fovstereographic="270"/>
+    </view>
+    <userdata customnodeid="" author="" info="" comment="" longitude="" source="" nodeid="node3" title="" description="" heading="100.324" copyright="" latitude="" datetime="11/30/21 6:59 AM" tags="06-Augmented Tour with Pano2VR">
+      <mapcoords x="nan" mapid="FloorPlan01" x_floorplan_percent="inf" y="nan" y_floorplan_percent="inf"/>
+    </userdata>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label backgroundalpha="1" textcolor="0x000000" bordercolor="0x000000" enabled="1" height="20" borderalpha="1" border="1" borderradius="1" background="1" textalpha="1" wordwrap="1" width="180" backgroundcolor="0xffffff"/>
+      <polystyle backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot skinid="ht_node" id="Point01" tilt="-3.94" pan="-269.28" title="Move Here" description="" url="{node4}" target="144.2/1.5/70.0"/>
+      <hotspot skinid="ht_node" id="Point02" tilt="-7.56" pan="-179.7" title="Move Here" description="" url="{node2}" target="-91.6/-4.0/70.0"/>
+      <hotspot skinid="ht_image" id="Point03" tilt="-10.7" pan="-327.48" title="Kitchen Before" description="" url="images/Kitchen.jpg" target=""/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" zoomafterinfov="90" zoomoutpause="1" zoomout="0" zoomafteroutfov="20" enabled="1" blendtime="1" zoomspeed="2" softedge="0" zoomin="0" type="crossdissolve" zoomfov="20"/>
+    <autorotate nodedelay="0.00" useanimation="0" delay="5.00" noderandom="1" enabled="1" nodefilter="" returntohorizon="0.000" startloaded="0" speed="0.050"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control rubberband="0" speedwheel="1" contextvr="1" lockedkeyboard="0" invertwheel="0" lockedmouse="0" lockedwheel="0" invertcontrol="1" sensitivity="8" simulatemass="1" contextprojections="0" lockedkeyboardzoom="0" dblclickfullscreen="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node4">
+    <input overlap="1" levelingpitch="0" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" height="3473" leveltilesize="510" levelbiashidpi="1.000" levelbias="0.400" width="3473" levelingroll="0">
+      <level preload="0" height="3473" predecode="0" width="3473"/>
+      <level preload="0" height="1736" predecode="0" width="1736"/>
+      <level preload="0" height="868" predecode="0" width="868"/>
+      <level preload="1" height="434" predecode="1" width="434"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="158.13">
+      <start projection="4" tilt="0" pan="0" fov="70"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max tilt="90" pan="360" fovfisheye="360" fov="120" scaletofit="1" fovstereographic="270"/>
+    </view>
+    <userdata customnodeid="" author="" info="" comment="" longitude="" source="" nodeid="node4" title="" description="" heading="158.13" copyright="" latitude="" datetime="11/30/21 7:02 AM" tags="06-Augmented Tour with Pano2VR">
+      <mapcoords x="nan" mapid="FloorPlan01" x_floorplan_percent="inf" y="nan" y_floorplan_percent="inf"/>
+    </userdata>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label backgroundalpha="1" textcolor="0x000000" bordercolor="0x000000" enabled="1" height="20" borderalpha="1" border="1" borderradius="1" background="1" textalpha="1" wordwrap="1" width="180" backgroundcolor="0xffffff"/>
+      <polystyle backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot skinid="ht_node" id="Point01" tilt="-4.01" pan="-32.7" title="MOVE Here" description="" url="{node3}" target="-88.1/1.0/70.0"/>
+      <hotspot skinid="ht_image" id="Point02" tilt="-15.9" pan="-227.5" title="Sunroom Before" description="" url="images/sunroom.jpg" target=""/>
+    </hotspots>
+    <media>
+      <video pan="-286.650" roty="18.000" pansize="10.000" mode="3" rotz="-2.000" loop="1" clickmode="2" tiltsize="10.000" startmutedmobile="0" field="90.000" width="960" height="540" id="Element01" stretch="1.000" nodechangekeep="0" ambientlevel="0.100" rotx="2.000" level="1.000" tilt="2.210" fov="28.470" handcursor="0">
+        <source url="media/House Reno.mp4"/>
+      </video>
+    </media>
+    <transition blendcolor="0x000000" zoomafterinfov="90" zoomoutpause="1" zoomout="0" zoomafteroutfov="20" enabled="1" blendtime="1" zoomspeed="2" softedge="0" zoomin="0" type="crossdissolve" zoomfov="20"/>
+    <autorotate nodedelay="0.00" useanimation="0" delay="5.00" noderandom="1" enabled="1" nodefilter="" returntohorizon="0.000" startloaded="0" speed="0.050"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control rubberband="0" speedwheel="1" contextvr="1" lockedkeyboard="0" invertwheel="0" lockedmouse="0" lockedwheel="0" invertcontrol="1" sensitivity="8" simulatemass="1" contextprojections="0" lockedkeyboardzoom="0" dblclickfullscreen="0" contextfullscreen="1"/>
+  </panorama>
+  <masternode>
+    <userdata customnodeid="" author="" info="" comment="" longitude="" source="" nodeid="master" title="" description="" heading="0" copyright="" latitude="" datetime="" tags=""/>
+  </masternode>
+  <map id="FloorPlan01" transparent="0" floorplannorth="0.65" zoomlevels="1" bgcolor="rgba(255, 255, 255, 1)" title="" height="0" type="file" tileformat="jpg" width="0"/>
+</tour>
