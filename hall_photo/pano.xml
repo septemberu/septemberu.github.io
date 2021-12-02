@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<panorama appversion="6.1.13" apprev="18080" id="node1">
+  <input levelbias="0.400" width="3471" levelingpitch="0" levelingroll="0" leveltilesize="510" levelbiashidpi="1.000" overlap="1" height="3471" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg">
+    <level width="3471" predecode="0" preload="0" height="3471"/>
+    <level width="1735" predecode="0" preload="0" height="1735"/>
+    <level width="867" predecode="0" preload="0" height="867"/>
+    <level width="433" predecode="1" preload="1" height="433"/>
+    <preview strip="1" color="0x808080"/>
+  </input>
+  <view fovmode="0" pannorth="68">
+    <start fov="70" tilt="0" projection="4" pan="0"/>
+    <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+    <min fovpixel="2" tilt="-90" pan="0"/>
+    <max fov="120" fovfisheye="360" tilt="90" scaletofit="1" pan="360" fovstereographic="270"/>
+  </view>
+  <userdata datetime="" longitude="-111.86561520" heading="68" info="" copyright="" latitude="40.52196850" customnodeid="" nodeid="node1" title="Spanish Fork Memorial Square" comment="" author="Cam Stephens" source="" description="Memorial Square Park on Main Street in Spanish Fork Utah" tags="HDR"/>
+  <hotspots width="180" wordwrap="1" height="20">
+    <label width="180" borderalpha="1" enabled="1" borderradius="1" background="1" textalpha="1" bordercolor="0x000000" textcolor="0x000000" wordwrap="1" height="20" backgroundcolor="0xffffff" backgroundalpha="1" border="1"/>
+    <polystyle borderalpha="1" bordercolor="0x0000ff" mode="0" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+  </hotspots>
+  <media/>
+  <transition zoomoutpause="1" enabled="1" zoomafteroutfov="20" type="crossdissolve" zoomin="0" softedge="0" blendcolor="0x000000" blendtime="1" zoomfov="20" zoomout="0" zoomspeed="2" zoomafterinfov="90"/>
+  <autorotate delay="5.00" useanimation="0" nodedelay="0.00" enabled="1" returntohorizon="0.000" startloaded="0" noderandom="1" speed="0.100" nodefilter=""/>
+  <flyintransition enabled="1" speed="2.00"/>
+  <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+  <control rubberband="0" contextprojections="0" sensitivity="8" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedkeyboard="0" invertwheel="0" contextfullscreen="1" simulatemass="1" lockedmouse="0" lockedwheel="0" speedwheel="1" contextvr="1" invertcontrol="1"/>
+  <map mapprovider="openstreetmap" type="web" mapurltemplate="http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" mapmaxzoom="18" mapstyle="streets" title="Draper Historic Park" id="Map01"/>
+</panorama>
