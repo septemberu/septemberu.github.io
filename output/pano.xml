@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="18080" appversion="6.1.13" start="node1">
+  <panorama id="node1">
+    <input levelbias="0.400" levelbiashidpi="1.000" levelingroll="0" width="3468" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingpitch="0" height="3468" overlap="1">
+      <level preload="0" width="3468" predecode="0" height="3468"/>
+      <level preload="0" width="1734" predecode="0" height="1734"/>
+      <level preload="0" width="867" predecode="0" height="867"/>
+      <level preload="1" width="433" predecode="1" height="433"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="2.80884" fov="70" projection="4" pan="10.814"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="270" tilt="90" scaletofit="1" fov="120" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata title="Spanish Fork Memorial Square" datetime="12/4/21 12:23 AM" comment="" longitude="-111.72854305" copyright="" tags="PANOS" source="" author="Cam Stephens" latitude="40.31104702" info="" customnodeid="" nodeid="node1" description="Memorial Square Park on Main Street in Spanish Fork Utah" heading="0">
+      <mapcoords y_floorplan_percent="inf" x_floorplan_percent="inf" mapid="FloorPlan01" x="nan" y="nan"/>
+    </userdata>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label borderalpha="1" enabled="1" textcolor="0x000000" backgroundcolor="0xffffff" width="180" bordercolor="0x000000" textalpha="1" borderradius="1" backgroundalpha="1" border="1" background="1" wordwrap="1" height="20"/>
+      <polystyle borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" mode="0"/>
+      <hotspot id="Point01" tilt="-4.67" title="" target="-1.1/-8.3/70.0" distance="15.5717" pan="-349.62" skinid="ht_node" description="" url="{node2}"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" enabled="1" zoomspeed="2" blendtime="1" softedge="0" zoomin="0" zoomfov="20" type="crossdissolve" zoomout="0" zoomoutpause="1" blendcolor="0x000000" zoomafterinfov="90"/>
+    <autorotate speed="0.100" nodedelay="0.00" enabled="1" returntohorizon="0.000" nodefilter="" delay="5.00" noderandom="1" useanimation="0" startloaded="0"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control rubberband="0" lockedmouse="0" dblclickfullscreen="0" sensitivity="8" lockedkeyboardzoom="0" contextprojections="0" contextvr="1" simulatemass="1" invertwheel="0" contextfullscreen="1" lockedwheel="0" lockedkeyboard="0" speedwheel="1" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node2">
+    <input levelbias="0.400" levelbiashidpi="1.000" levelingroll="0" width="3474" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingpitch="0" height="3474" overlap="1">
+      <level preload="0" width="3474" predecode="0" height="3474"/>
+      <level preload="0" width="1737" predecode="0" height="1737"/>
+      <level preload="0" width="868" predecode="0" height="868"/>
+      <level preload="1" width="434" predecode="1" height="434"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="270" tilt="90" scaletofit="1" fov="120" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata title="National Flooring Brokers" datetime="12/4/21 12:27 AM" comment="" longitude="-111.72856451" copyright="" tags="PANOS" source="" author="Cam Stephens" latitude="40.31118610" info="" customnodeid="" nodeid="node2" description="Memorial Square Park on Main Street in Spanish Fork Utah" heading="0">
+      <mapcoords y_floorplan_percent="inf" x_floorplan_percent="inf" mapid="FloorPlan01" x="nan" y="nan"/>
+    </userdata>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label borderalpha="1" enabled="1" textcolor="0x000000" backgroundcolor="0xffffff" width="180" bordercolor="0x000000" textalpha="1" borderradius="1" backgroundalpha="1" border="1" background="1" wordwrap="1" height="20"/>
+      <polystyle borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" mode="0"/>
+      <hotspot id="Point01" tilt="-6.47" title="" target="0.0/0.0/70.0" distance="10.9391" pan="-92.61" skinid="ht_node" description="" url="{node3}"/>
+      <hotspot id="Point02" tilt="-4.42" title="" target="-171.7/-4.4/70.0" pan="-180.27" skinid="ht_node" description="" url="{node2}"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" enabled="1" zoomspeed="2" blendtime="1" softedge="0" zoomin="0" zoomfov="20" type="crossdissolve" zoomout="0" zoomoutpause="1" blendcolor="0x000000" zoomafterinfov="90"/>
+    <autorotate speed="0.100" nodedelay="0.00" enabled="1" returntohorizon="0.000" nodefilter="" delay="5.00" noderandom="1" useanimation="0" startloaded="0"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control rubberband="0" lockedmouse="0" dblclickfullscreen="0" sensitivity="8" lockedkeyboardzoom="0" contextprojections="0" contextvr="1" simulatemass="1" invertwheel="0" contextfullscreen="1" lockedwheel="0" lockedkeyboard="0" speedwheel="1" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node3">
+    <input levelbias="0.400" levelbiashidpi="1.000" levelingroll="0" width="3483" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingpitch="0" height="3483" overlap="1">
+      <level preload="0" width="3483" predecode="0" height="3483"/>
+      <level preload="0" width="1741" predecode="0" height="1741"/>
+      <level preload="0" width="870" predecode="0" height="870"/>
+      <level preload="1" width="435" predecode="1" height="435"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="270" tilt="90" scaletofit="1" fov="120" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata title="National Flooring Brokers" datetime="12/4/21 12:30 AM" comment="" longitude="-111.72843575" copyright="" tags="PANOS" source="" author="Cam Stephens" latitude="40.31119226" info="" customnodeid="" nodeid="node3" description="Memorial Square Park on Main Street in Spanish Fork Utah" heading="0">
+      <mapcoords y_floorplan_percent="inf" x_floorplan_percent="inf" mapid="FloorPlan01" x="nan" y="nan"/>
+    </userdata>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label borderalpha="1" enabled="1" textcolor="0x000000" backgroundcolor="0xffffff" width="180" bordercolor="0x000000" textalpha="1" borderradius="1" backgroundalpha="1" border="1" background="1" wordwrap="1" height="20"/>
+      <polystyle borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" mode="0"/>
+      <hotspot id="Point01" tilt="-5.14" title="" target="2.2/-8.0/70.0" distance="16.3992" pan="-0.64" skinid="ht_node" description="" url="{node4}"/>
+      <hotspot id="Point02" tilt="-3.19" title="" target="86.6/-5.8/70.0" distance="10.9391" pan="-181.59" skinid="ht_node" description="" url="{node2}"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" enabled="1" zoomspeed="2" blendtime="1" softedge="0" zoomin="0" zoomfov="20" type="crossdissolve" zoomout="0" zoomoutpause="1" blendcolor="0x000000" zoomafterinfov="90"/>
+    <autorotate speed="0.100" nodedelay="0.00" enabled="1" returntohorizon="0.000" nodefilter="" delay="5.00" noderandom="1" useanimation="0" startloaded="0"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control rubberband="0" lockedmouse="0" dblclickfullscreen="0" sensitivity="8" lockedkeyboardzoom="0" contextprojections="0" contextvr="1" simulatemass="1" invertwheel="0" contextfullscreen="1" lockedwheel="0" lockedkeyboard="0" speedwheel="1" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node4">
+    <input levelbias="0.400" levelbiashidpi="1.000" levelingroll="0" width="3476" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingpitch="0" height="3476" overlap="1">
+      <level preload="0" width="3476" predecode="0" height="3476"/>
+      <level preload="0" width="1738" predecode="0" height="1738"/>
+      <level preload="0" width="869" predecode="0" height="869"/>
+      <level preload="1" width="434" predecode="1" height="434"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="270" tilt="90" scaletofit="1" fov="120" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata title="National Flooring Brokers" datetime="12/4/21 12:33 AM" comment="" longitude="-111.72824264" copyright="" tags="PANOS" source="" author="Cam Stephens" latitude="40.31118408" info="" customnodeid="" nodeid="node4" description="Memorial Square Park on Main Street in Spanish Fork Utah" heading="0">
+      <mapcoords y_floorplan_percent="inf" x_floorplan_percent="inf" mapid="FloorPlan01" x="nan" y="nan"/>
+    </userdata>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label borderalpha="1" enabled="1" textcolor="0x000000" backgroundcolor="0xffffff" width="180" bordercolor="0x000000" textalpha="1" borderradius="1" backgroundalpha="1" border="1" background="1" wordwrap="1" height="20"/>
+      <polystyle borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" mode="0"/>
+      <hotspot id="Point01" tilt="-7.2" title="" target="-23.8/3.8/70.0" distance="15.7006" pan="-357.98" skinid="ht_node" description="" url="{node5}"/>
+      <hotspot id="Point02" tilt="-5.45" title="" target="179.7/-0.5/70.0" distance="16.3992" pan="-179.93" skinid="ht_node" description="" url="{node3}"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" enabled="1" zoomspeed="2" blendtime="1" softedge="0" zoomin="0" zoomfov="20" type="crossdissolve" zoomout="0" zoomoutpause="1" blendcolor="0x000000" zoomafterinfov="90"/>
+    <autorotate speed="0.100" nodedelay="0.00" enabled="1" returntohorizon="0.000" nodefilter="" delay="5.00" noderandom="1" useanimation="0" startloaded="0"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control rubberband="0" lockedmouse="0" dblclickfullscreen="0" sensitivity="8" lockedkeyboardzoom="0" contextprojections="0" contextvr="1" simulatemass="1" invertwheel="0" contextfullscreen="1" lockedwheel="0" lockedkeyboard="0" speedwheel="1" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node5">
+    <input levelbias="0.400" levelbiashidpi="1.000" levelingroll="0" width="3482" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingpitch="0" height="3482" overlap="1">
+      <level preload="0" width="3482" predecode="0" height="3482"/>
+      <level preload="0" width="1741" predecode="0" height="1741"/>
+      <level preload="0" width="870" predecode="0" height="870"/>
+      <level preload="1" width="435" predecode="1" height="435"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="7.97419" fov="70" projection="4" pan="-25"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="270" tilt="90" scaletofit="1" fov="120" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata title="National Flooring Brokers" datetime="12/4/21 12:38 AM" comment="" longitude="-111.72805755" copyright="" tags="PANOS" source="" author="Cam Stephens" latitude="40.31117998" info="" customnodeid="" nodeid="node5" description="Memorial Square Park on Main Street in Spanish Fork Utah" heading="0">
+      <mapcoords y_floorplan_percent="inf" x_floorplan_percent="inf" mapid="FloorPlan01" x="nan" y="nan"/>
+    </userdata>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label borderalpha="1" enabled="1" textcolor="0x000000" backgroundcolor="0xffffff" width="180" bordercolor="0x000000" textalpha="1" borderradius="1" backgroundalpha="1" border="1" background="1" wordwrap="1" height="20"/>
+      <polystyle borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" mode="0"/>
+      <hotspot id="Point01" tilt="-8.8" title="" target="-179.6/-2.4/70.0" distance="15.7006" pan="-204.38" skinid="ht_node" description="" url="{node4}"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" enabled="1" zoomspeed="2" blendtime="1" softedge="0" zoomin="0" zoomfov="20" type="crossdissolve" zoomout="0" zoomoutpause="1" blendcolor="0x000000" zoomafterinfov="90"/>
+    <autorotate speed="0.100" nodedelay="0.00" enabled="1" returntohorizon="0.000" nodefilter="" delay="5.00" noderandom="1" useanimation="0" startloaded="0"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control rubberband="0" lockedmouse="0" dblclickfullscreen="0" sensitivity="8" lockedkeyboardzoom="0" contextprojections="0" contextvr="1" simulatemass="1" invertwheel="0" contextfullscreen="1" lockedwheel="0" lockedkeyboard="0" speedwheel="1" invertcontrol="1"/>
+  </panorama>
+  <masternode>
+    <userdata title="Spanish Fork Memorial Square" datetime="" comment="" longitude="-111.65444000" copyright="" tags="" source="" author="Cam Stephens" latitude="40.11266000" info="" customnodeid="" nodeid="master" description="Memorial Square Park on Main Street in Spanish Fork Utah" heading="0"/>
+  </masternode>
+  <map id="FloorPlan01" title="" width="0" transparent="0" zoomlevels="1" floorplannorth="0" type="file" tileformat="jpg" height="0" bgcolor="rgba(255, 255, 255, 1)"/>
+  <map id="Map01" mapurltemplate="http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" title="" mapmaxzoom="18" mapprovider="openstreetmap" mapstyle="streets" type="web"/>
+</tour>
